@@ -1,0 +1,1 @@
+python E:/VisualStudio_Code/Covid/covid_image/ImagePreProcessing/main.py
