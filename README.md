@@ -1,5 +1,7 @@
 # Visualize_MAP
 
+```This repository provides a code for visualizing confirmed cases of COVID-19.```
+
 1. How to use 
     1. Download the map file from https://github.com/CSSEGISandData/COVID-20/tree/master/data_tables/JHU_USCountymap and place it in the map_path directory.
     2. Get any CSV file you want to visualize and put it in the csv_path directory.
